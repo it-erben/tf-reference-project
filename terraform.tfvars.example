@@ -1,0 +1,15 @@
+project_id             = "deine-projekt-id"
+lb_domain              = "gemini.deine-domain.de"
+google_oauth_client_id = "DEINE-CLIENT-ID.apps.googleusercontent.com"
+
+# name_prefix             = "gemini-demo"
+# region                  = "europe-west1"
+# bucket_name             = "dein-global-eindeutiger-ergebnis-bucket"
+# dataset_id              = "gemini_results"
+# table_id                = "answers"
+# gemini_location         = "global"
+# gemini_model            = "gemini-3.1-flash-lite"
+# max_instances           = 2
+# session_secret_rotation = 1
+# allow_data_deletion     = false
+# container_image = "ghcr.io/it-erben/cloud-run-gemini-demo@sha256:<64-hexzeichen>"

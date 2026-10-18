@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate*
+*.tfplan
+*.tfplan.*
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+backend.hcl
+.legacy/
+.idea/
+.DS_Store
+# Lockdateien und Beispieldateien werden versioniert.
